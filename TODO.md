@@ -1,0 +1,1 @@
+- [x] Update evento/src/app/page.js to implement the event list page with highlighted first event and thumbnails for others, including modern styling with dark blue background and lighting effects.
